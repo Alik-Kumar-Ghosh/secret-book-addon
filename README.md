@@ -1,5 +1,5 @@
 # secret_book_addon
-## It is just a simple addon of my site for mozilla firefox and opera.
+## It is just a simple addon of secret book web site for mozilla firefox and opera.
 >CSS
 ```css
 
